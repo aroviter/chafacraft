@@ -1,0 +1,236 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 8/31/25, 7:13 PM
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:112) ~[server-1.18.2-20220404.173914-srg.jar%2359!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+-- MOD ars_nouveau --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/ars_nouveau-1.18.2-2.9.0.jar
+	Failure message: Mod ars_nouveau requires patchouli 1.18.2-67 or above
+		Currently, patchouli is not installed
+	Mod Version: 2.9.0
+	Mod Issue URL: https://github.com/baileyholl/Ars-Nouveau
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?] {re:mixin}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.18.2-40.2.21-universal.jar%2364!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:112) ~[server-1.18.2-20220404.173914-srg.jar%2359!/:?] {re:classloading}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.21.jar%2318!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+
+-- MOD supplementaries --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/supplementaries-1.18.2-1.5.18.jar
+	Failure message: Mod supplementaries requires selene 1.18.2-1.16.6 or above
+		Currently, selene is not installed
+	Mod Version: 1.18.2-1.5.18
+	Mod Issue URL: https://github.com/MehVahdJukaar/Supplementaries/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD alexsmobs --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/alexsmobs-1.18.6.jar
+	Failure message: Mod alexsmobs requires citadel 1.11.1 or above
+		Currently, citadel is not installed
+	Mod Version: 1.18.6
+	Mod Issue URL: https://github.com/Alex-the-666/AlexsMobs/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD ftbchunks --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/ftb-chunks-forge-1802.3.19-build.362.jar
+	Failure message: Mod ftbchunks requires architectury 4.11.89 or above
+		Currently, architectury is not installed
+	Mod Version: 1802.3.19-build.362
+	Mod Issue URL: https://github.com/FTBTeam/FTB-Chunks/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD betterstrongholds --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar
+	Failure message: Mod betterstrongholds requires yungsapi 1.18.2-Forge-2.0.7 or above
+		Currently, yungsapi is not installed
+	Mod Version: 1.18.2-Forge-2.1.1
+	Mod Issue URL: https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD ars_nouveau --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/ars_nouveau-1.18.2-2.9.0.jar
+	Failure message: Mod ars_nouveau requires curios 1.18.2-5.0.6.3 or above
+		Currently, curios is not installed
+	Mod Version: 2.9.0
+	Mod Issue URL: https://github.com/baileyholl/Ars-Nouveau
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD iceandfire --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/iceandfire-2.1.13-1.18.2-beta-3.jar
+	Failure message: Mod iceandfire requires citadel between 1.11.1 and 1.11.99 (inclusive)
+		Currently, citadel is not installed
+	Mod Version: 2.1.13-1.18.2+build.beta-3
+	Mod Issue URL: https://github.com/Alex-the-666/ice-and-fire/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD bettermineshafts --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/YungsBetterMineshafts-1.18.2-Forge-2.2.jar
+	Failure message: Mod bettermineshafts requires yungsapi 1.18.2-Forge-2.0.7 or above
+		Currently, yungsapi is not installed
+	Mod Version: 1.18.2-Forge-2.2
+	Mod Issue URL: https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD biomesoplenty --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/BiomesOPlenty-1.18.2-16.0.0.134.jar
+	Failure message: Mod biomesoplenty requires terrablender 1.1.0.91 or above
+		Currently, terrablender is not installed
+	Mod Version: 0.0NONE
+	Mod Issue URL: https://github.com/Glitchfiend/BiomesOPlenty/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD sophisticatedbackpacks --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar
+	Failure message: Mod sophisticatedbackpacks requires sophisticatedcore 1.18.2-0.6.0 or above
+		Currently, sophisticatedcore is not installed
+	Mod Version: 1.18.2-3.20.3.1063
+	Mod Issue URL: https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD bloodmagic --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/BloodMagic-1.18.2-3.2.6-41.jar
+	Failure message: Mod bloodmagic requires patchouli 1.18.2-71 or above
+		Currently, patchouli is not installed
+	Mod Version: 1.18.2-3.2.6-41
+	Mod Issue URL: http://my.issue.tracker/
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD byg --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar
+	Failure message: Mod byg requires terrablender 1.2.0.0 or above
+		Currently, terrablender is not installed
+	Mod Version: 1.4
+	Mod Issue URL: https://github.com/AOCAWOL/BYG/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD valhelsia_structures --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/valhelsia_structures-1.18.2-0.1.1.jar
+	Failure message: Mod valhelsia_structures requires valhelsia_core 1.18.1-0.1.0 or above
+		Currently, valhelsia_core is not installed
+	Mod Version: 1.18.2-0.1.1
+	Mod Issue URL: https://github.com/ValhelsiaTeam/Valhelsia-Structures/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD ftbchunks --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/ftb-chunks-forge-1802.3.19-build.362.jar
+	Failure message: Mod ftbchunks requires ftblibrary 1802.3.8-build.161 or above
+		Currently, ftblibrary is not installed
+	Mod Version: 1802.3.19-build.362
+	Mod Issue URL: https://github.com/FTBTeam/FTB-Chunks/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD ftbteams --
+Details:
+	Mod File: /workspaces/chafacraft/servidor_minecraft/mods/ftb-teams-forge-1802.2.11-build.107.jar
+	Failure message: Mod ftbteams requires architectury 3.2.52 or above
+		Currently, architectury is not installed
+	Mod Version: 1802.2.11-build.107
+	Mod Issue URL: https://github.com/FTBTeam/FTB-Teams/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 17.0.16, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1414891632 bytes (1349 MiB) / 2147483648 bytes (2048 MiB) up to 15032385536 bytes (14336 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.99
+	Virtual memory used (MB): 4405.39
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx14G
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.21-universal.jar                |Forge                         |forge                         |40.2.21             |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
