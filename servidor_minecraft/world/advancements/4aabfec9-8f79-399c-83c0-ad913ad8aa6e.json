@@ -1,324 +1,80 @@
 {
-  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "has_item": "2025-09-06 19:01:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:alt/treasures/crumble_horn": {
-    "criteria": {
-      "has_item": "2025-09-06 19:01:20 +0000"
-    },
-    "done": true
-  },
-  "darkerdepths:recipes/misc/silver_ingot": {
-    "criteria": {
-      "has_silver_ore": "2025-09-06 18:48:19 +0000"
-    },
-    "done": true
-  },
-  "byg:root": {
-    "criteria": {
-      "tick": "2025-09-06 18:48:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:alt/treasures/crumble_horn_used": {
-    "criteria": {
-      "used": "2025-09-06 19:01:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2025-09-06 18:57:37 +0000",
-      "shrubland": "2025-09-06 18:55:32 +0000",
-      "marsh": "2025-09-06 18:51:59 +0000",
-      "clover_patch": "2025-09-06 18:55:40 +0000",
-      "redwood_forest": "2025-09-06 18:55:49 +0000",
-      "pasture": "2025-09-06 18:48:19 +0000",
-      "lavender_field": "2025-09-06 18:52:26 +0000",
-      "glowing_grotto": "2025-09-06 18:56:52 +0000",
-      "rainforest": "2025-09-06 18:57:15 +0000"
-    },
-    "done": false
-  },
-  "hangglider:recipes/hangglider.main/reinforced_hang_glider": {
-    "criteria": {
-      "has_hang_glider_and_elytra": "2025-09-06 19:04:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:boomerang": {
-    "criteria": {
-      "has_boomerang": "2025-09-06 19:00:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
-    "criteria": {
-      "has_item": "2025-09-06 19:05:47 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/torches": {
-    "criteria": {
-      "has_wood": "2025-09-06 19:05:47 +0000"
-    },
-    "done": true
-  },
-  "byg:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-06 18:51:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2025-09-06 18:54:53 +0000",
-      "minecraft:windswept_hills": "2025-09-06 18:50:48 +0000",
-      "minecraft:beach": "2025-09-06 18:57:12 +0000",
-      "minecraft:lukewarm_ocean": "2025-09-06 18:57:38 +0000",
-      "minecraft:river": "2025-09-06 18:54:57 +0000",
-      "minecraft:swamp": "2025-09-06 18:53:27 +0000",
-      "minecraft:forest": "2025-09-06 18:55:25 +0000",
-      "minecraft:flower_forest": "2025-09-06 18:54:58 +0000",
-      "minecraft:old_growth_birch_forest": "2025-09-06 18:56:05 +0000",
-      "minecraft:plains": "2025-09-06 18:55:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-09-06 19:05:47 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:scythe": {
-    "criteria": {
-      "has_scythe": "2025-09-06 19:00:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-09-06 18:48:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-06 18:51:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-09-06 19:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-09-06 19:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-09-06 19:05:47 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
-    "criteria": {
-      "has_item": "2025-09-06 19:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:saber": {
-    "criteria": {
-      "has_saber": "2025-09-06 18:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "revenant": "2025-09-06 19:01:55 +0000"
+      "lavender_field": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/darkerdepths/silver_ingot": {
     "criteria": {
-      "has_the_recipe": "2025-09-06 18:48:19 +0000"
+      "has_the_recipe": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
+      "tick": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+  "darkerdepths:recipes/misc/silver_ingot": {
     "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-09-06 19:01:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-09-06 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "pasture": "2025-09-06 18:48:19 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:warhammer": {
-    "criteria": {
-      "has_warhammer": "2025-09-06 18:59:28 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-09-06 18:51:05 +0000"
+      "has_silver_ore": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "byg:biomepedia_gift": {
     "criteria": {
-      "tick": "2025-09-06 18:48:19 +0000"
+      "tick": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "byg:root": {
     "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
+      "tick": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/silver_ingot_from_copper_block": {
     "criteria": {
-      "has_silver_block": "2025-09-06 18:48:19 +0000"
+      "has_silver_block": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/darkerdepths/rope": {
     "criteria": {
-      "has_the_recipe": "2025-09-06 18:48:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
+      "has_the_recipe": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/silver_ingot_from_blasting": {
     "criteria": {
-      "has_silver_ore": "2025-09-06 18:48:19 +0000"
+      "has_silver_ore": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lavender_forest": "2025-09-06 22:43:31 +0000",
+      "lavender_field": "2025-09-06 22:41:53 +0000"
+    },
+    "done": false
+  },
   "darkerdepths:recipes/misc/resin": {
     "criteria": {
-      "has_amber": "2025-09-06 18:48:19 +0000"
+      "has_amber": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/rope": {
     "criteria": {
-      "has_resin": "2025-09-06 18:48:19 +0000"
+      "has_resin": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "repurposed_structures:root": {
     "criteria": {
-      "in_water": "2025-09-06 18:52:38 +0000"
+      "always": "2025-09-06 22:41:53 +0000"
     },
     "done": true
   },
