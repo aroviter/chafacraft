@@ -1920,3 +1920,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Sep2025 19:01:55.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Stay dead]
 [06Sep2025 19:03:16.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz fell out of the world
 [06Sep2025 19:03:16.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Killed vonjaz]
+[06Sep2025 19:08:35.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz fell out of the world
+[06Sep2025 19:08:35.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Killed vonjaz]
+[06Sep2025 19:14:09.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vonjaz lost connection: Disconnected
+[06Sep2025 19:14:09.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz left the game
