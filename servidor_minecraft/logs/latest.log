@@ -1910,3 +1910,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Sep2025 18:51:28.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Set own game mode to Creative Mode]
 [06Sep2025 18:52:59.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Set own game mode to Spectator Mode]
 [06Sep2025 18:54:40.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Set the time to 13000]
+[06Sep2025 18:56:16.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vonjaz moved too quickly! 8.242419507210911,5.998871329278167,-0.9965751086260184
+[06Sep2025 18:58:58.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Set own game mode to Survival Mode]
+[06Sep2025 18:59:21.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Swashbuckler]
+[06Sep2025 18:59:26.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [A Cut Above the Rest]
+[06Sep2025 18:59:28.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Blunt-force Trauma]
+[06Sep2025 19:00:25.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Will it Come Back?]
+[06Sep2025 19:00:50.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Reaping What You Sow]
+[06Sep2025 19:01:55.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz has made the advancement [Stay dead]
+[06Sep2025 19:03:16.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: vonjaz fell out of the world
+[06Sep2025 19:03:16.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [vonjaz: Killed vonjaz]
