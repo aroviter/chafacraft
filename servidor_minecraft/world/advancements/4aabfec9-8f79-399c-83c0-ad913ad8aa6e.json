@@ -1,19 +1,19 @@
 {
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
-    },
-    "done": true
-  },
   "darkerdepths:recipes/darkerdepths/silver_ingot": {
     "criteria": {
       "has_the_recipe": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "tick": "2025-09-21 18:53:56 +0000"
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-28 11:32:32 +0000"
     },
     "done": true
   },
@@ -23,9 +23,106 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-09-28 11:32:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-09-21 18:56:31 +0000",
+      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-09-28 11:32:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-09-28 11:32:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
     },
     "done": true
   },
@@ -35,9 +132,21 @@
     },
     "done": true
   },
-  "byg:root": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "tick": "2025-09-21 18:53:56 +0000"
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-28 11:32:32 +0000"
     },
     "done": true
   },
@@ -53,18 +162,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
   "darkerdepths:recipes/misc/silver_ingot_from_blasting": {
     "criteria": {
       "has_silver_ore": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "scrubland": "2025-09-21 18:56:31 +0000",
-      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
+      "in_water": "2025-09-28 11:34:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "darkerdepths:recipes/misc/resin": {
     "criteria": {
@@ -81,6 +195,30 @@
   "darkerdepths:recipes/misc/rope": {
     "criteria": {
       "has_resin": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-09-28 11:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-28 11:34:02 +0000"
     },
     "done": true
   },
