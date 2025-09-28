@@ -8130,3 +8130,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Sep2025 20:38:03.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/51, l='ServerLevel[world]', x=33.54, y=93.00, z=6.50] died, message: 'Weaponsmith was slain by Zombie'
 [28Sep2025 20:39:20.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Sep2025 20:39:20.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 20:44:20.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 20:44:20.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 20:46:14.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Sep2025 20:46:14.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Sep2025 20:46:16.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Sep2025 20:46:44.417] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[28Sep2025 20:47:52.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 has made the advancement [Isn't It Iron Pick]
+[28Sep2025 20:49:20.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 20:49:20.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
