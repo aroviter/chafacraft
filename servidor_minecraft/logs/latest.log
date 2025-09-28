@@ -2010,3 +2010,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Sep2025 20:36:05.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Teleported admin001 to 0.500000, 100.118135, 0.500000]
 [28Sep2025 20:38:03.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/51, l='ServerLevel[world]', x=33.54, y=93.00, z=6.50] died, message: 'Weaponsmith was slain by Zombie'
 [28Sep2025 20:47:52.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 has made the advancement [Isn't It Iron Pick]
+[28Sep2025 20:52:43.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 has made the advancement [Pseudo Archaeologist]
+[28Sep2025 20:53:17.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Lurker['Herobrine'/2847, l='ServerLevel[world]', x=23.84, y=78.00, z=-30.70] died: Herobrine was slain by admin001
+[28Sep2025 21:00:36.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 fell out of the world
+[28Sep2025 21:00:36.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Killed admin001]
+[28Sep2025 21:01:02.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Set spawn point to -1, 88, 0 [0.0] in minecraft:overworld for admin001]
