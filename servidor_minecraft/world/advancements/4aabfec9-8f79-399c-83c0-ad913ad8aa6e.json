@@ -1,80 +1,92 @@
 {
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "lavender_field": "2025-09-06 22:41:53 +0000"
+      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/darkerdepths/silver_ingot": {
     "criteria": {
-      "has_the_recipe": "2025-09-06 22:41:53 +0000"
+      "has_the_recipe": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-09-06 22:41:53 +0000"
+      "tick": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/silver_ingot": {
     "criteria": {
-      "has_silver_ore": "2025-09-06 22:41:53 +0000"
+      "has_silver_ore": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "byg:biomepedia_gift": {
     "criteria": {
-      "tick": "2025-09-06 22:41:53 +0000"
+      "tick": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "byg:root": {
     "criteria": {
-      "tick": "2025-09-06 22:41:53 +0000"
+      "tick": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/silver_ingot_from_copper_block": {
     "criteria": {
-      "has_silver_block": "2025-09-06 22:41:53 +0000"
+      "has_silver_block": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/darkerdepths/rope": {
     "criteria": {
-      "has_the_recipe": "2025-09-06 22:41:53 +0000"
+      "has_the_recipe": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/silver_ingot_from_blasting": {
     "criteria": {
-      "has_silver_ore": "2025-09-06 22:41:53 +0000"
+      "has_silver_ore": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "lavender_forest": "2025-09-06 22:43:31 +0000",
-      "lavender_field": "2025-09-06 22:41:53 +0000"
+      "scrubland": "2025-09-21 18:56:31 +0000",
+      "mediterranean_forest": "2025-09-21 18:53:56 +0000"
     },
     "done": false
   },
   "darkerdepths:recipes/misc/resin": {
     "criteria": {
-      "has_amber": "2025-09-06 22:41:53 +0000"
+      "has_amber": "2025-09-21 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-28 11:27:54 +0000"
     },
     "done": true
   },
   "darkerdepths:recipes/misc/rope": {
     "criteria": {
-      "has_resin": "2025-09-06 22:41:53 +0000"
+      "has_resin": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
-      "always": "2025-09-06 22:41:53 +0000"
+      "always": "2025-09-21 18:53:56 +0000"
     },
     "done": true
   },
