@@ -2015,3 +2015,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Sep2025 21:00:36.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 fell out of the world
 [28Sep2025 21:00:36.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Killed admin001]
 [28Sep2025 21:01:02.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Set spawn point to -1, 88, 0 [0.0] in minecraft:overworld for admin001]
+[28Sep2025 21:04:53.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Gave 1 [Barrier] to admin001]
+[28Sep2025 21:09:07.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 has made the advancement [Swashbuckler]
+[28Sep2025 21:09:13.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Builder['Herobrine'/5700, l='ServerLevel[world]', x=-6.40, y=85.00, z=5.84] died: Herobrine was slain by admin001
+[28Sep2025 21:09:18.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 has made the advancement [Monster Hunter]
+[28Sep2025 21:10:55.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: admin001 fell out of the world
+[28Sep2025 21:10:55.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [admin001: Killed admin001]
